@@ -10,6 +10,6 @@ Run the entire code first (don't forget to change the working directory).
 
 *** Other files in the repository ***
 
-All algebraic derivations for the above article can be found on "cc_compete_2026_mm_dd.R_2026_mm_dd.dfw.pdf" (which the reader can download). You can croll down to the desired derivation using the same section and equation numbers correspoding to the paper itself.
+All algebraic derivations for the above article can be found on "cc_compete_2026_mm_dd_2026_mm_dd.dfw.pdf" (which the reader can download). You can croll down to the desired derivation using the same section and equation numbers correspoding to the paper itself.
 
 The above PDF file was constructed using a symbolic algebra software called "Derive for Windows." The file "cc_compete_2026_mm_dd.dfw" requires this sofware (which most people don't have). Therefore, it is sufficient to download only the PDF.
